@@ -1,0 +1,2 @@
+This is the first file created for git from a command line
+
